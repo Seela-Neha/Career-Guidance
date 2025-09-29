@@ -1,0 +1,27 @@
+Occupation,Industry,Domain,Skill_Level,Average_Salary_Range,Required_Education,Required_Skills,Personality_Fit,Work_Style,Learning_Roadmap
+Software Engineer,Technology,Tech,Intermediate,6-12 LPA,Bachelor's in CS,Python;Java;Problem Solving,Analytical,Hybrid,CS Degree + Coding Bootcamps + Open Source Projects
+Data Scientist,Technology,Tech,Advanced,8-15 LPA,Bachelor's/Master's in CS/Stats,Python;R;Statistics;ML,Analytical,Hybrid,Online ML Courses + Kaggle Competitions
+UI/UX Designer,Technology,Creative,Intermediate,5-10 LPA,Bachelor's in Design/CS,Adobe XD;Figma;Creativity,Creative,Remote,Design Portfolio + Online UX Courses
+Content Writer,Media,Creative,Beginner,3-6 LPA,Bachelor's in English/Journalism,Writing;SEO;Research,Creative,Remote,Content Writing Courses + Medium/Blog Practice
+Graphic Designer,Design,Creative,Intermediate,4-8 LPA,Bachelor's in Design,Photoshop;Illustrator;Creativity,Creative,Remote,Portfolio + Adobe Certification
+Animator,Media,Creative,Intermediate,4-9 LPA,Bachelor's in Animation/Design,After Effects;Maya;Creativity,Creative,Remote,Animation Courses + Portfolio Projects
+Product Manager,Technology,Non-Tech,Advanced,12-20 LPA,Bachelor's in Any + MBA,Leadership;Planning;Communication,Analytical,Hybrid,PM Certifications + Internship Experience
+Business Analyst,Business,Non-Tech,Intermediate,6-12 LPA,Bachelor's in Business/Finance,Excel;SQL;Analytical Thinking,Analytical,Hybrid,Online BA Courses + Case Studies
+HR Manager,HR,Non-Tech,Intermediate,5-12 LPA,Bachelor's in HR/Management,Recruitment;Employee Relations;Communication,Social,Onsite,HR Certification + Internship
+Financial Analyst,Finance,Non-Tech,Intermediate,6-15 LPA,Bachelor's in Finance/Accounting,Excel;Financial Modeling;Analytical Thinking,Analytical,Hybrid,Finance Courses + CFA Prep
+Civil Engineer,Engineering,Non-Tech,Intermediate,5-12 LPA,Bachelor's in Civil Engineering,CAD;Project Management;Math,Analytical,Onsite,Engineering Internships + CAD Training
+Mechanical Engineer,Engineering,Non-Tech,Intermediate,5-12 LPA,Bachelor's in Mechanical Engineering,CAD;Problem Solving;Math,Analytical,Onsite,Engineering Internships + SolidWorks Training
+Interior Designer,Design,Creative,Intermediate,4-10 LPA,Bachelor's in Interior Design,AutoCAD;Creativity;Visualization,Creative,Remote,Design Portfolio + Interior Design Courses
+Architect,Design,Creative,Advanced,8-20 LPA,Bachelor's/Master's in Architecture,AutoCAD;SketchUp;Creativity,Creative,Onsite,Portfolio + Architecture Workshops
+Photographer,Media,Creative,Beginner,3-8 LPA,Bachelor's or Diploma in Photography,Camera Skills;Editing;Creativity,Creative,Remote,Portfolio + Online Photography Courses
+Event Manager,Management,Non-Tech,Intermediate,4-10 LPA,Bachelor's in Management,Planning;Communication;Negotiation,Social,Onsite,Event Planning Courses + Internships
+Social Media Manager,Marketing,Non-Tech,Intermediate,4-8 LPA,Bachelor's in Marketing/Communication,Content Creation;Analytics;SEO,Creative,Remote,Digital Marketing Courses + Social Media Portfolio
+UX Researcher,Technology,Creative,Intermediate,6-12 LPA,Bachelor's in Design/CS,Research;User Testing;Analytics,Analytical,Hybrid,UX Research Courses + Portfolio
+Technical Writer,Technology,Non-Tech,Intermediate,5-10 LPA,Bachelor's in CS/English,Writing;Documentation;Tech Understanding,Analytical,Remote,Technical Writing Certification + Projects
+SEO Specialist,Marketing,Non-Tech,Intermediate,4-8 LPA,Bachelor's in Marketing/IT,SEO;Analytics;Content,Analytical,Remote,SEO Courses + Freelance Projects
+Game Developer,Technology,Creative,Advanced,6-15 LPA,Bachelor's in CS/Game Design,Unity;C#;Creativity,Creative,Hybrid,Game Dev Courses + Personal Projects
+Music Producer,Media,Creative,Intermediate,4-10 LPA,Diploma/Degree in Music Production,DAW;Creativity;Mixing,Creative,Remote,Portfolio + Music Production Courses
+Fitness Trainer,Health,Non-Tech,Intermediate,3-8 LPA,Diploma/Certifications in Fitness,Training;Motivation;Anatomy,Social,Onsite,Fitness Certifications + Workshops
+Chef,Culinary,Creative,Intermediate,3-8 LPA,Diploma/Degree in Culinary Arts,Cooking;Creativity;Time Management,Creative,Onsite,Culinary Courses + Apprenticeship
+Digital Illustrator,Design,Creative,Beginner,3-7 LPA,Bachelor's/Diploma in Design,Photoshop;Illustrator;Creativity,Creative,Remote,Portfolio + Online Courses
+App Developer,Technology,Tech,Intermediate,5-12 LPA,Bachelor's in CS/IT,Java;Kotlin;UI/UX,Analytical,Hybrid,Mobile App Courses + Projects
